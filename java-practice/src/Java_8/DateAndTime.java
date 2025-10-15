@@ -7,4 +7,5 @@ public class DateAndTime {
         LocalDate currentDate = LocalDate.now();
         System.out.println("Current date: " + currentDate);
     }
+
 }
