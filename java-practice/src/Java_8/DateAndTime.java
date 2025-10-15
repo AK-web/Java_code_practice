@@ -8,4 +8,5 @@ public class DateAndTime {
         System.out.println("Current date: " + currentDate);
     }
 
+
 }
