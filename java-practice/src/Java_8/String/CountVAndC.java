@@ -1,4 +1,4 @@
-package Java_8;
+package Java_8.String;
 
 public class CountVAndC {
     public static void main(String[] args) {
